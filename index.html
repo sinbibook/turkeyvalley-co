@@ -39,14 +39,14 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="화천 터키벨리 펜션 - 홈" />
   <meta property="og:description" content="강원도 화천 사내면,사창리 인근에 위치한 터키벨리입니다. 커플,가족과 다양한 부대시설 및 계곡을 즐겨보세요. 자체픽업 가능합니다." />
-  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/Bopz18DLCJtl.jpg" />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/JdSTXQOilBPh.jpg" />
   <meta property="og:url" content="https://turkeyvalley.co.kr" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="화천 터키벨리 펜션 - 홈" />
   <meta name="twitter:description" content="강원도 화천 사내면,사창리 인근에 위치한 터키벨리입니다. 커플,가족과 다양한 부대시설 및 계곡을 즐겨보세요. 자체픽업 가능합니다." />
-  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/Bopz18DLCJtl.jpg" />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/JdSTXQOilBPh.jpg" />
   <meta name="naver-site-verification" content="3f985fe601cc0ac3404c6e655b534a14e426728e" />
   <meta name="google-site-verification" content="xbF8OpPhwGz0bGmgR3gkLvl-1kZAU2OORpiVkQJbIq0" />
 </head>
@@ -67,6 +67,12 @@
                       .pic_title / room 배너 / Hello, / Welcome to 는 영문명이다.
                       (경주 한옥스테이: 여기 "한옥 스테이 다락" / 저기 "HanokStayDarak") -->
               <strong data-index-hero-title></strong>
+              <!-- data-* 속성 : data-index-hero-logo
+                   index.essence.images[isSelected][0] — 원본 히어로 문구 자리가 로고 이미지인 숙소용
+                   (A형은 essence 섹션을 안 써서 이 칸을 로고 칸으로 빌린다. 아그니초시매 title.png)
+                   이미지가 있으면 .main_txt_top.has-logo → WELCOME 줄·strong 대신 로고만 보인다.
+                   없으면 hidden 그대로라 지금 화면과 같다. <img> 는 매퍼가 만든다 (src="" 금지) -->
+              <div class="hero_logo" data-index-hero-logo hidden></div>
               <!-- data-* 속성 : data-index-hero-description
                    (pages.index.sections[0].hero.description → 폴백 property.subtitle) -->
               <p data-index-hero-description></p>
