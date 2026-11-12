@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-11-12T01:48:51.154287323Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-11-12T01:58:29.831186862Z",
     "templateType": "trip_a",
     "propertyId": "724c30ca-45f4-40c6-86ca-2c0251749e5a",
     "homepageId": "01a15716-527a-7897-8b2f-6fae34ba4a26"
@@ -16,7 +16,7 @@
     "latitude": 38.0905798,
     "longitude": 127.477651,
     "contactPhone": [
-      "010-2905-3363"
+      "070-4364-9488"
     ],
     "contactEmail": "",
     "checkin": "15:00",
@@ -30,7 +30,7 @@
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/297643",
     "ybsId": "63299",
     "tripPropertyId": "1800",
-    "partnerType": "distributor_b",
+    "partnerType": "distributor_a",
     "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장"
