@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-11-10T03:39:49.653443763Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-11-12T01:48:26.272995922Z",
     "templateType": "trip_a",
     "propertyId": "724c30ca-45f4-40c6-86ca-2c0251749e5a",
     "homepageId": "01a15716-527a-7897-8b2f-6fae34ba4a26"
@@ -16,13 +16,13 @@
     "latitude": 38.0905798,
     "longitude": 127.477651,
     "contactPhone": [
-      "070-4364-9488"
+      "010-2905-3363"
     ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션측에 반드시 사전연락 부탁드립니다.\n※ 사전 연락 시 수료식 당일 수료자 및 수료자 가족에 한 해 오전 10시 입실 가능합니다.",
-    "usageGuide": "[공지사항]\n※ 군부대 수료식 관련 문의는 펜션으로 사전 문의 필요\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션측에 반드시 사전연락 부탁드립니다.\n※ 사전 연락 시 수료식 당일 수료자 및 수료자 가족에 한 해 오전 10시 입실 가능합니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영, 유아도 추가 인원에 포함되며 0세 이상 1만원의 추가 요금이 적용됩니다.\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯 + 그릴 + 집게 + 가위\n- 이용 요금: 4인 기준 1SET 2만원(1인 추가 시 5,000원)(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 준비 소요시간: 30분 내외\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유(개인개정 필요)\n- 엘레베이터 미보유\n\n- 펜션 앞 계곡 있음\n※ 평상 무료 대여 가능\n\n- 편의점 차량 7분 / 킴스마트 차량 10분\n- 이기자부대 27사단 신병교육대\n- 7.43km승리부대 \n- 15사단 신병교육대 26.32km\n\n[주차장]\n- 전기차 충전기 이용 불가",
+    "usageGuide": "※ 군부대 수료식 관련 문의는 펜션으로 사전 문의 필요\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션측에 반드시 사전연락 부탁드립니다.\n※ 사전 연락 시 수료식 당일 수료자 및 수료자 가족에 한 해 오전 10시 입실 가능합니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 10,000원, 유아 1인 10,000원\n(1박기준/현장결제)\n※ 영, 유아도 추가 인원에 포함되며 0세 이상 1만원의 추가 요금이 적용됩니다.\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯 + 그릴 + 집게 + 가위\n- 이용 요금: 4인 기준 1SET 2만원(1인 추가 시 5,000원)(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 준비 소요시간: 30분 내외\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유(개인개정 필요)\n- 엘레베이터 미보유\n\n- 펜션 앞 계곡 있음\n※ 평상 무료 대여 가능\n\n- 편의점 차량 7분 / 킴스마트 차량 10분\n- 이기자부대 27사단 신병교육대\n- 7.43km승리부대 \n- 15사단 신병교육대 26.32km\n\n[주차장]\n- 전기차 충전기 이용 불가",
     "reservationGuide": "※ 군부대 수료식 관련 문의는 펜션으로 사전 문의 필요",
     "province": "도/시",
     "city": "시/군/구",
@@ -30,7 +30,7 @@
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/297643",
     "ybsId": "63299",
     "tripPropertyId": "1800",
-    "partnerType": "distributor_a",
+    "partnerType": "distributor_b",
     "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장"
@@ -278,7 +278,7 @@
           {
             "id": "cb53a5d8-a7ac-4e96-8803-eab54a77c48a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/JdSTXQOilBPh.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -288,7 +288,7 @@
           {
             "id": "68089f30-6628-4b21-9086-b50b023d1bfb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/Bopz18DLCJtl.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -296,7 +296,7 @@
           {
             "id": "3009d706-9204-413d-b404-de5e2a7151fe",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/TEjG8PtpIQVf.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -304,7 +304,7 @@
           {
             "id": "747896ae-3629-4c9c-952c-9944ca2553b6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/0Xgcxf5bNlGo.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -312,7 +312,7 @@
           {
             "id": "18c417e1-db52-450b-b60d-f89ff17c7886",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/MpUBQf8SwVGr.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -320,7 +320,7 @@
           {
             "id": "1ed57059-a9f9-4356-9ef2-95528fed8bf1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/B87Pd9ziYcvK.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -328,7 +328,7 @@
           {
             "id": "f01742c3-e3ee-4235-a84a-5af0032f83d7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/26KVeBWZhf3p.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -336,7 +336,7 @@
           {
             "id": "6041f16b-f90f-4b33-aba2-b7f0c5d52ca4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/KqRFkCE8ZlV6.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -344,7 +344,7 @@
           {
             "id": "4f50ffc8-8e0a-4973-abfb-af13070e418b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/28/9lbHuVeTDgmQ.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
